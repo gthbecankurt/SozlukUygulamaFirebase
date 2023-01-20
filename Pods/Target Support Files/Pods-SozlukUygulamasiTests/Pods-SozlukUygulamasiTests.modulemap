@@ -1,0 +1,6 @@
+framework module Pods_SozlukUygulamasiTests {
+  umbrella header "Pods-SozlukUygulamasiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
